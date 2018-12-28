@@ -1,0 +1,16 @@
+c:\users\stryapkov\documents\visual studio 2015\Projects\mvvm\mvvm\bin\Debug\mvvm.exe.config
+c:\users\stryapkov\documents\visual studio 2015\Projects\mvvm\mvvm\bin\Debug\mvvm.exe
+c:\users\stryapkov\documents\visual studio 2015\Projects\mvvm\mvvm\bin\Debug\mvvm.pdb
+c:\users\stryapkov\documents\visual studio 2015\Projects\mvvm\mvvm\obj\Debug\View\MainWindow.g.cs
+c:\users\stryapkov\documents\visual studio 2015\Projects\mvvm\mvvm\obj\Debug\App.g.cs
+c:\users\stryapkov\documents\visual studio 2015\Projects\mvvm\mvvm\obj\Debug\mvvm_MarkupCompile.cache
+c:\users\stryapkov\documents\visual studio 2015\Projects\mvvm\mvvm\obj\Debug\mvvm_MarkupCompile.lref
+c:\users\stryapkov\documents\visual studio 2015\Projects\mvvm\mvvm\obj\Debug\View\MainWindow.baml
+c:\users\stryapkov\documents\visual studio 2015\Projects\mvvm\mvvm\obj\Debug\mvvm.g.resources
+c:\users\stryapkov\documents\visual studio 2015\Projects\mvvm\mvvm\obj\Debug\mvvm.Properties.Resources.resources
+c:\users\stryapkov\documents\visual studio 2015\Projects\mvvm\mvvm\obj\Debug\mvvm.csproj.GenerateResource.Cache
+c:\users\stryapkov\documents\visual studio 2015\Projects\mvvm\mvvm\obj\Debug\mvvm.exe
+c:\users\stryapkov\documents\visual studio 2015\Projects\mvvm\mvvm\obj\Debug\mvvm.pdb
+C:\Users\stryapkov\Documents\Visual Studio 2015\Projects\mvvm\mvvm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\stryapkov\Documents\Visual Studio 2015\Projects\mvvm\mvvm\obj\Debug\App.baml
+C:\Users\stryapkov\Documents\Visual Studio 2015\Projects\mvvm\mvvm\obj\Debug\mvvm.csprojResolveAssemblyReference.cache

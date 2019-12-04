@@ -25,7 +25,6 @@ namespace mvvm.Properties {
     internal class Resources {
         
         private static global::System.Resources.ResourceManager resourceMan;
-        
         private static global::System.Globalization.CultureInfo resourceCulture;
         
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
@@ -33,7 +32,7 @@ namespace mvvm.Properties {
         }
         
         /// <summary>
-        ///   Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+        ///   Возвращает кэшированный экземпляр ResourceManager, использованный этим классом
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
         internal static global::System.Resources.ResourceManager ResourceManager {

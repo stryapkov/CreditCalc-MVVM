@@ -32,7 +32,7 @@ namespace mvvm.Properties {
         }
         
         /// <summary>
-        ///
+        ///teststststs
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
         internal static global::System.Resources.ResourceManager ResourceManager {
